@@ -1,21 +1,30 @@
 ---
 layout: ../layouts/Layout.astro
-title: Nice Tat Astro Template
+title: jake4k's links
 ---
+
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Nice Tat Astro Template
+# jake4k
 
-[using this template](/how-to-use)
+[bluesky](https://bsky.app/profile/jake4k.com)
 
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+[twitter](https://x.com/jake2160p)
 
-[github](https://github.com/ThatGuySam/nice-tat)
+[letterboxd](https://letterboxd.com/jake4k/)
 
-[instagram](https://www.instagram.com/caseyneistat/)
+[last.fm](https://www.last.fm/user/jake4k)
+
+[rateyourmusic](https://rateyourmusic.com/~jake4k)
+
+[are.na](https://www.are.na/jake-4k/channels)
 
 [onlyfans](/onlyfans)
 
-[twitter](https://twitter.com/Casey)
+_contact:_
 
-[contact](/contact)
+[signal](https://signal.me/#eu/sh6qaiJZ4SooznTdf4jaspiiIH16pMtUn2Cs2heVEkYlgxs1ImdN67rEs-cK-0Mf)
+
+[telegram](https://t.me/jake2160p)
+
+[discord](https://discord.com/users/240358196370210816)
