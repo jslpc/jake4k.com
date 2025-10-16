@@ -1,11 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: jake4k's links
+title: jake's links
 ---
 
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# jake4k
+# jake's links
 
 [bluesky](https://bsky.app/profile/jake4k.com)
 
@@ -21,7 +21,9 @@ title: jake4k's links
 
 [onlyfans](/onlyfans)
 
-_contact:_
+---
+
+**_contact:_**
 
 [signal](https://signal.me/#eu/sh6qaiJZ4SooznTdf4jaspiiIH16pMtUn2Cs2heVEkYlgxs1ImdN67rEs-cK-0Mf)
 
