@@ -26,3 +26,7 @@ beyond what it is right now
 <br />
 
 i'm not totally sure just yet
+
+<br />
+
+✦ best way to reach me is **[signal](https://signal.me/#eu/sh6qaiJZ4SooznTdf4jaspiiIH16pMtUn2Cs2heVEkYlgxs1ImdN67rEs-cK-0Mf)**
