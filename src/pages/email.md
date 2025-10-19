@@ -1,5 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
+title: email request
 ---
 
 <!-- Markdown Preview - https://dillinger.io/ -->
