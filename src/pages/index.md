@@ -19,8 +19,6 @@ title: jake's links
 
 [are.na](https://www.are.na/jake-4k/channels)
 
-[onlyfans](/onlyfans)
-
 ~
 
 **_contact:_**
@@ -30,3 +28,5 @@ title: jake's links
 [telegram](https://t.me/jake2160p)
 
 [discord](https://discord.com/users/240358196370210816)
+
+[email](/email)
