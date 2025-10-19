@@ -7,6 +7,8 @@ title: jake's links
 
 # jake's links
 
+[about](/about)
+
 <br />
 
 [bluesky](https://bsky.app/profile/jake4k.com)
@@ -22,8 +24,6 @@ title: jake's links
 [are.na](https://www.are.na/jake-4k/channels)
 
 <br />
-
-**_contact:_**
 
 [signal](https://signal.me/#eu/sh6qaiJZ4SooznTdf4jaspiiIH16pMtUn2Cs2heVEkYlgxs1ImdN67rEs-cK-0Mf)
 
