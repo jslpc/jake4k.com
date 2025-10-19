@@ -25,6 +25,8 @@ title: jake's links
 
 **_contact:_**
 
+[signal](https://signal.me/#eu/sh6qaiJZ4SooznTdf4jaspiiIH16pMtUn2Cs2heVEkYlgxs1ImdN67rEs-cK-0Mf)
+
 [telegram](https://t.me/jake2160p)
 
 [discord](https://discord.com/users/240358196370210816)
